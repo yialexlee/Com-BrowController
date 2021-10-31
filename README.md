@@ -35,4 +35,4 @@ Make sure your phone or tablet connect the same wifi with the computer you want 
 
 Select the function you want, and enter the password you have set in `index.js`
 
-![image](https://github.com/yialexlee/Com-BrowController/blob/master/epphoto/pass.png)
+![image](/epphoto/pass.png)
