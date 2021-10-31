@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+.no-padding {
+  padding: 0 !important;
+}
+.no-margin {
+  margin: 0 !important;
+}
+.page-header {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.footer {
+  color: #b4bcc2;
+  text-align: center;
+  width: 100%;
+  font-size: 13px;
+  line-height: 13px;
+  margin-top: 25px;
+}
+.wrapper {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.wrapper > div {
+  padding: 0;
+}
+.wrapper .panel,
+.wrapper .panel-body {background-color:#212121;
+  margin: 0;
+color:white;
+}
