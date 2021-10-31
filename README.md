@@ -32,7 +32,7 @@ app.listen(port,'ip_address',() => console.log(`Server listening on port: ${port
 npm start
 ```
 
-Make sure your phone or tablet connect the same wifi with the computer you want to control. Then, open your phone or tablet browser and browse `http://yourip:3000`.
+Make sure your phone or tablet connect the same Wi-Fi with the computer you want to control. Then, open your phone or tablet browser and browse `http://yourip:3000`.
 
 <img src="/epphoto/index.png" width="40%" height="42%">
 
