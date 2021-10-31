@@ -7,6 +7,7 @@ Com-Brow Controller is a tool develop with Node.js and flutter webview( for app,
  [Node.js](https://nodejs.org/en/download/)
  
  ## Installation
+ Open terminal and type following command.
  ``` bash
 git clone https://github.com/yialexlee/Com-BrowController.git
 cd Com-BrowController
