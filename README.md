@@ -31,7 +31,7 @@ npm start
 ```
 Make sure your phone or tablet connect the same wifi with the computer you want to control. Then, open your phone or tablet browser and browse `http://yourip:3000`.
 
-![index](https://github.com/yialexlee/Com-BrowController/blob/master/epphoto/index.png)
+![index](/epphoto/index.png)
 
 Select the function you want, and enter the password you have set in `index.js`
 
