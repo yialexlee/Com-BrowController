@@ -32,11 +32,11 @@ npm start
 
 Make sure your phone or tablet connect the same wifi with the computer you want to control. Then, open your phone or tablet browser and browse `http://yourip:3000`.
 
-<img src="/epphoto/index.png" width="60%" height="60%">
+<img src="/epphoto/index.png" width="40%" height="40%">
 
 
 Select the function you want, and enter the password you have set in `index.js`
 
 
-<img src="/epphoto/pass.png" width="60%" height="60%">
+<img src="/epphoto/pass.png" width="40%" height="40%">
 
