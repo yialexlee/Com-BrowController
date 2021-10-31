@@ -18,11 +18,13 @@ npm install
  ``` javascript
 const password = 'set_password';
 ```
+
  ### Setup IP 
  In `index.js` line 26 , change `ip_address` to your device local ip address.
  ``` javascript
 app.listen(port,'ip_address',() => console.log(`Server listening on port: ${port}`));
 ```
+
 
  ## Usage
  Open terminal and change your directory to `Com-BrowController` and run following command.
