@@ -29,10 +29,14 @@ app.listen(port,'ip_address',() => console.log(`Server listening on port: ${port
  ``` bash
 npm start
 ```
+
 Make sure your phone or tablet connect the same wifi with the computer you want to control. Then, open your phone or tablet browser and browse `http://yourip:3000`.
 
-![index](/epphoto/index.png)
+<img src="/epphoto/index.png" width="60%" height="60%">
+
 
 Select the function you want, and enter the password you have set in `index.js`
 
-![image](/epphoto/pass.png)
+
+<img src="/epphoto/pass.png" width="60%" height="60%">
+
